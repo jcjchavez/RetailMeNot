@@ -1,5 +1,3 @@
-## author: Joshua Chavez 
-## date: 03-28-2015
 
 ## Synopsis
 
