@@ -16,7 +16,5 @@ Part 2: "Calculate the Bounce Rate for each store page." My solution for this pa
 To find clicks per minute per couponId, from the RetailMeNot directory, run:
     python3 ClicksPerMinute.py rmn_weblog_sample.log clickoutput.csv
     
-To find bounce rates per page domain, from the RetailMeNot/BounceRates/out/production/BounceRates directory, run
-
-    java com.company.Main ../../../../rmn_weblog_sample.log         
-    ../../../../bouncerateOutput.csv
+To find bounce rates per page domain, from the RetailMeNot/BounceRates/out/production/BounceRates directory, run:
+    java com.company.Main ../../../../rmn_weblog_sample.log ../../../../bouncerateOutput.csv
